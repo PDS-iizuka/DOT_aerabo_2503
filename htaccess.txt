@@ -1,4 +1,4 @@
-AuthUserFile /home/d9r8_soupedup/htdocs/yymmddnn/.htpasswd
+AuthUserFile /home/d9r8_soupedup/htdocs/25033103/.htpasswd
 AuthName "dot_test"
 AuthType Basic
 require valid-user
