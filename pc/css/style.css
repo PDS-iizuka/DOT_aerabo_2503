@@ -456,6 +456,13 @@ FOUNDATIONここまで  Not touch!
 .mainCts .photo2-1, .mainCts .photo2-3 {
   width: 210px;
 }
+.mainCts .photo2-1 + p, .mainCts .photo2-3 + p {
+  width: 100%;
+  text-align: right;
+  font-size: 12px;
+  line-height: 1.5;
+  margin-top: 5px;
+}
 .mainCts .photo2-2 {
   display: flex;
   flex-direction: column;

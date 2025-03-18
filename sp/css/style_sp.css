@@ -447,6 +447,11 @@ FOUNDATIONここまで
   line-height: 1.6;
   color: #fff;
 }
+.mainCts .photo2 > div + p {
+  font-size: 12px;
+  line-height: 1.5;
+  text-align: right;
+}
 .mainCts .photo3, .mainCts .photo4 {
   margin: 8% auto;
 }
